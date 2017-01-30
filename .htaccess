@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule tiaLogin_v2.php$ tiaLogin_v3.php [PT] 

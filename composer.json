@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^7.0",
+    "aws/aws-sdk-php": "^3.0"
+  },
+  "require-dev": {
+  	"aws/aws-sdk-php": "^3.0"
+  }
+}
