@@ -25,6 +25,10 @@ O `tia-webservice` é o proxy responsável por obter as informações diretament
 - Calendario (TIA e Moodle)
 - Desempenho Academico
 
+O `tiaLogin_v2.php` está deprecado e não deve ser utilizado. É feito um redirect para o `tiaLogin_v3.php` por meio do `.htaccess`
+
+Em um mundo ideal, isso deveria seguir os padrões RESTFul
+
 ## Exemplo de Request
 ```bash
 curl -X POST \
