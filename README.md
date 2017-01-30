@@ -30,6 +30,8 @@ O `tiaLogin_v2.php` está deprecado e não deve ser utilizado. É feito um redir
 Em um mundo ideal, isso deveria seguir os padrões RESTFul
 
 ## Exemplo de Request
+Todas as requisições devem ser feitas para o `tiaLogin_v3.php`
+
 ```bash
 curl -X POST \
       -H "Contenttype: application/json" \
